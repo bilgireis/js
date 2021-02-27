@@ -6,7 +6,7 @@
   "background_color": "#ffffff",
   "theme_color": "#232323",
   "description": "e-Devlet, Sorgulama, Sınav Sonuçları ve Nasıl Yapılır gibi bilgilere tek noktadan, hızlı ve güvenli bir şekilde ulaşabilirsiniz.",
-  "start_url": "/?m=1",
+  "start_url": "/",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-a54gi06MKpw/YC2bCR1F_jI/AAAAAAAACF0/6qzL9nUqUXAJB_PghgBEaG0iNsJknTuowCLcBGAsYHQ/s36/B.png' rel='apple-touch-icon",
     "sizes": "36x36",
